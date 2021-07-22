@@ -10,6 +10,11 @@ import Foundation
 
 import UIKit
 
+enum Narek {
+    case txa
+    case axjik
+}
+
 enum LanguageType {
     case Armenian
     case English
