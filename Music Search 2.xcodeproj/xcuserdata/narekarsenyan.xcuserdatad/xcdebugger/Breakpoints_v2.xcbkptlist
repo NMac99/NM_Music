@@ -1,0 +1,352 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "47C99A79-A414-4D1A-A8B1-1E0DD17307DE"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "8F3EBE45-2AA4-48ED-83B6-823DA205F7F0"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Music Search/DataTypes.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "135"
+            endingLineNumber = "135"
+            landmarkName = "init(from:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "09AF3715-F309-417F-B260-10806EEBAF05"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Music Search/DataTypes.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "136"
+            endingLineNumber = "136"
+            landmarkName = "init(from:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F685AEEC-C47B-4A58-93D0-5203DE78F007"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Music Search/Artists/ArtistCell.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "18"
+            endingLineNumber = "18"
+            landmarkName = "awakeFromNib()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "17401200-D615-4B3A-AA1D-DAA5CF4A00C5"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Music Search/Artists/ArtistCell.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "14"
+            endingLineNumber = "14"
+            landmarkName = "ArtistCell"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "17401200-D615-4B3A-AA1D-DAA5CF4A00C5 - 999f5dc843a9fa86"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Music_Search_2.ArtistCell.tabelLabelUp.getter : Swift.Optional&lt;__C.UILabel&gt;"
+                  moduleName = "Music Search 2"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/narekarsenyan/Desktop/Music%20Search%202/Music%20Search/Artists/ArtistCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "88">
+               </Location>
+               <Location
+                  uuid = "17401200-D615-4B3A-AA1D-DAA5CF4A00C5 - 1d04ebba3eb7fe92"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Music_Search_2.ArtistCell.tabelLabelUp.setter : Swift.Optional&lt;__C.UILabel&gt;"
+                  moduleName = "Music Search 2"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/narekarsenyan/Desktop/Music%20Search%202/Music%20Search/Artists/ArtistCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "155">
+               </Location>
+               <Location
+                  uuid = "17401200-D615-4B3A-AA1D-DAA5CF4A00C5 - 9192fd3fa22377d3"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Music_Search_2.ArtistCell.tabelLabelUp.modify : Swift.Optional&lt;__C.UILabel&gt;"
+                  moduleName = "Music Search 2"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/narekarsenyan/Desktop/Music%20Search%202/Music%20Search/Artists/ArtistCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "44">
+               </Location>
+               <Location
+                  uuid = "17401200-D615-4B3A-AA1D-DAA5CF4A00C5 - 32aff1177db7295c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Music_Search_2.ArtistCell.tabelLabelUp.modify : Swift.Optional&lt;__C.UILabel&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "Music Search 2"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/narekarsenyan/Desktop/Music%20Search%202/Music%20Search/Artists/ArtistCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "36">
+               </Location>
+               <Location
+                  uuid = "17401200-D615-4B3A-AA1D-DAA5CF4A00C5 - 3dd73e5a565fcdbb"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Music_Search_2.ArtistCell.init(style: __C.UITableViewCellStyle, reuseIdentifier: Swift.Optional&lt;Swift.String&gt;) -&gt; Music_Search_2.ArtistCell"
+                  moduleName = "Music Search 2"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/narekarsenyan/Desktop/Music%20Search%202/Music%20Search/Artists/ArtistCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "235">
+               </Location>
+               <Location
+                  uuid = "17401200-D615-4B3A-AA1D-DAA5CF4A00C5 - ae3d0883585fbcdf"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Music_Search_2.ArtistCell.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;Music_Search_2.ArtistCell&gt;"
+                  moduleName = "Music Search 2"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/narekarsenyan/Desktop/Music%20Search%202/Music%20Search/Artists/ArtistCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "191">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "53C117E3-C6E2-4AEC-B962-3110B1E4A587"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Music Search/Artists/ArtistCell.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "15"
+            endingLineNumber = "15"
+            landmarkName = "ArtistCell"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "53C117E3-C6E2-4AEC-B962-3110B1E4A587 - 3d6bc459648142c8"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Music_Search_2.ArtistCell.tabelLabelDown.getter : Swift.Optional&lt;__C.UILabel&gt;"
+                  moduleName = "Music Search 2"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/narekarsenyan/Desktop/Music%20Search%202/Music%20Search/Artists/ArtistCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "88">
+               </Location>
+               <Location
+                  uuid = "53C117E3-C6E2-4AEC-B962-3110B1E4A587 - dac4480ed82866c4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Music_Search_2.ArtistCell.tabelLabelDown.setter : Swift.Optional&lt;__C.UILabel&gt;"
+                  moduleName = "Music Search 2"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/narekarsenyan/Desktop/Music%20Search%202/Music%20Search/Artists/ArtistCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "155">
+               </Location>
+               <Location
+                  uuid = "53C117E3-C6E2-4AEC-B962-3110B1E4A587 - c0cb79abaf628786"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Music_Search_2.ArtistCell.tabelLabelDown.modify : Swift.Optional&lt;__C.UILabel&gt;"
+                  moduleName = "Music Search 2"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/narekarsenyan/Desktop/Music%20Search%202/Music%20Search/Artists/ArtistCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "44">
+               </Location>
+               <Location
+                  uuid = "53C117E3-C6E2-4AEC-B962-3110B1E4A587 - ac95a58911915151"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Music_Search_2.ArtistCell.tabelLabelDown.modify : Swift.Optional&lt;__C.UILabel&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "Music Search 2"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/narekarsenyan/Desktop/Music%20Search%202/Music%20Search/Artists/ArtistCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "36">
+               </Location>
+               <Location
+                  uuid = "53C117E3-C6E2-4AEC-B962-3110B1E4A587 - 3dd73e5a565fcdda"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Music_Search_2.ArtistCell.init(style: __C.UITableViewCellStyle, reuseIdentifier: Swift.Optional&lt;Swift.String&gt;) -&gt; Music_Search_2.ArtistCell"
+                  moduleName = "Music Search 2"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/narekarsenyan/Desktop/Music%20Search%202/Music%20Search/Artists/ArtistCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "295">
+               </Location>
+               <Location
+                  uuid = "53C117E3-C6E2-4AEC-B962-3110B1E4A587 - ae3d0883585fbcbe"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Music_Search_2.ArtistCell.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;Music_Search_2.ArtistCell&gt;"
+                  moduleName = "Music Search 2"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/narekarsenyan/Desktop/Music%20Search%202/Music%20Search/Artists/ArtistCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "248">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "7D14E4E4-92F4-47C7-9C07-4E6660F33964"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Music Search/Artists/ArtistCell.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "17"
+            endingLineNumber = "17"
+            landmarkName = "awakeFromNib()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "4985E089-7A42-4CE4-AF19-5DA44D12D827"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Music Search/Artists/ArtistCell.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "22"
+            endingLineNumber = "22"
+            landmarkName = "setSelected(_:animated:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "2AA01A6A-6AEE-48F8-90FB-F332FF0C8FB1"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Music Search/Artists/ArtistCell.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "28"
+            endingLineNumber = "28"
+            landmarkName = "artist(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "4A2723D7-BDD1-4FB6-8724-612AB700F0B8"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Music Search/Musics/InterfaceController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "42"
+            endingLineNumber = "42"
+            landmarkName = "InterfaceController"
+            landmarkType = "21">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "16B560F4-4C93-4066-85B7-4FCD1140491C"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Music Search/TableViewCellConfiguration.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "38"
+            endingLineNumber = "38"
+            landmarkName = "configure(song:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
