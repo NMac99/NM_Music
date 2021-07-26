@@ -41,17 +41,12 @@ class PlayerController: UIViewController {
         // Do any additional setup after loading the view.
     }
     
-    deinit {
-        print("dddd")
-    }
-    
     @IBAction func previous() {
         if songRow > 0 {
             songRow -= 1
             viewDidAppear(true)
             play.setImage(UIImage(named: "outline_play_circle_black_48pt"), for: .normal)
             isPlaying = false
-
         }
     }
     
@@ -166,7 +161,6 @@ class PlayerController: UIViewController {
                 }
             }
         NotificationCenter.default.addObserver(self, selector: #selector(playerDidFinishplaying), name: .AVPlayerItemDidPlayToEndTime, object: nil)
-
     }
     
     @objc func playerDidFinishplaying()  {
