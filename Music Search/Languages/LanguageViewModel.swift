@@ -42,6 +42,7 @@ class LanguageViewModel {
         let russian = Language(language: .Russian, artists: [egorKreed, maryGu, dava, jorik, timati, miyagi, leps, morgenshtern], pic: UIImage(named: "Russia")!)
         let usa = Language(language: .English, artists: [arianaGrande, nickyMinaj, witt, francheska, adele, billie, xxxtentacion, snoop], pic: UIImage(named: "Usa")!)
         
+        
         languages.append(armenian)
         languages.append(russian)
         languages.append(usa)
