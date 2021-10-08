@@ -10,7 +10,6 @@ import Foundation
 
 import UIKit
 
-
 enum LanguageType {
     case Armenian
     case English
